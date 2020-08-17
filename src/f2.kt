@@ -11,6 +11,8 @@ fun main() {
 
     println(a)
     println(a)
+    println(a)
+
 
     print(a)
 
