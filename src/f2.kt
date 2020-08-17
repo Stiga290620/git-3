@@ -10,7 +10,7 @@ fun main() {
 
 
     println(a)
-
+    print(a)
 
     print(b)
 }
